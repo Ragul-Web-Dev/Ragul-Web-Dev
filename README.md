@@ -17,24 +17,27 @@
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ragul-web-dev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragul-web-dev&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=Ragul-Web-Dev&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ragul-web-dev&theme=tokyonight" />
+</p>
 
 ---
 
 ## 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragul-web-dev&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragul-Web-Dev&layout=compact&theme=tokyonight)
 ## 🐍 Contribution Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ragul-Web-Dev/Ragul-Web-Dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ragul-Web-Dev/Ragul-Web-Dev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ragul-Web-Dev/Ragul-Web-Dev/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ragul-web-dev/ragul-web-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ragul-web-dev/ragul-web-dev/output/github-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/ragul-web-dev/ragul-web-dev/output/github-snake.svg">
 </picture>
