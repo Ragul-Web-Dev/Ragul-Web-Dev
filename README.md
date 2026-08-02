@@ -39,12 +39,12 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel" />
 </p>
 
 ### 🛠️ Tools & Technologies
@@ -54,7 +54,7 @@
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,typescript,go,redis" />
+  <img src="https://skillicons.dev/icons?i=typescript,go,redis" />
 </p>
 
 ---
