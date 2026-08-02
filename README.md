@@ -20,10 +20,41 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,docker,vscode,postman&perline=8" />
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,typescript,go,redis" />
 </p>
 
 ---
